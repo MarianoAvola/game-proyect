@@ -1,13 +1,23 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
 # Rider ignored files
 /contentModel.xml
 /projectSettingsUpdater.xml
-/.idea.MyGame.iml
+.idea
 /modules.xml
+/MyGame.sln.DotSettings.user
+
 # Editor-based HTTP Client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# Sensitive files
+.idea/.idea.MyGame/.idea/indexLayout.xml
+
+# Build output directories
+/obj/
